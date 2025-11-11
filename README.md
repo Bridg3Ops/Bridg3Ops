@@ -35,12 +35,16 @@ Currently exploring ethical hacking and threat hunting techniques to understand 
 ### SIEM & Threat Detection
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-FF6600?style=for-the-badge&logo=splunk&logoColor=white)
+![Defender XDR](https://img.shields.io/badge/Defender%20XDR-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Threat Intel & Hunting
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 ![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![SPL](https://img.shields.io/badge/SPL-FF6600?style=for-the-badge&logo=splunk&logoColor=white)
+![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-FF6600?style=for-the-badge&logo=security&logoColor=white)
+![URLScan](https://img.shields.io/badge/URLScan.io-1B1F23?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![Hybrid Analysis](https://img.shields.io/badge/Hybrid%20Analysis-00A4EF?style=for-the-badge&logo=virus&logoColor=white)
 
 ### Security Tools
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -48,6 +52,7 @@ Currently exploring ethical hacking and threat hunting techniques to understand 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-FF1744?style=for-the-badge&logo=security&logoColor=white)
 ## Education & Certifications
 
 - 🔒 [Security+ (Sec+)](https://www.credly.com/users/abraham-osinoiki)
