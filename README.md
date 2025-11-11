@@ -45,10 +45,10 @@ I am passionate about cybersecurity, focusing on SOC operations, threat detectio
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-## Certifications
+## Education & Certifications
 
-- 🔒 Security+ (Sec+)
-- 📊 CySA+ (Cybersecurity Analyst)
+- 🔒 [Security+ (Sec+)](https://www.credly.com/users/abraham-osinoiki)
+- 📊 [CySA+ (Cybersecurity Analyst)](https://www.credly.com/users/abraham-osinoiki)
 - 🎓 MSc Computer Science with Cyber Security (In Progress)
 
 ## Connect With Me
