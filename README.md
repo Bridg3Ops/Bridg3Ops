@@ -2,7 +2,9 @@
 
 ## About Me
 
-I am passionate about cybersecurity, focusing on SOC operations, threat detection, and incident response. I enjoy working with SIEM platforms like Microsoft Sentinel, analyzing security incidents, and developing detection rules. I am also exploring threat hunting, IOC documentation, and security operations to enhance detection and response capabilities.
+Cybersecurity Analyst with a strong focus on SOC operations, threat detection, and incident response. I enjoy working with tools like Microsoft Sentinel & Splunk to investigate alerts and create detection logic.
+
+Currently exploring ethical hacking and threat hunting techniques to understand adversary behaviour and improve blue-team defences through offence-informed strategies.
 
 ## Investigations & Projects
 
