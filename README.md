@@ -32,13 +32,13 @@ I am passionate about cybersecurity, focusing on SOC operations, threat detectio
 
 ### SIEM & Threat Detection
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-FF6600?style=for-the-badge&logo=splunk&logoColor=white)
 
 ### Threat Intel & Hunting
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 ![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SPL](https://img.shields.io/badge/SPL-FF6600?style=for-the-badge&logo=splunk&logoColor=white)
 
 ### Security Tools
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -54,5 +54,3 @@ I am passionate about cybersecurity, focusing on SOC operations, threat detectio
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abraham-o)
-
-
