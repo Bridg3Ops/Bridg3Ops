@@ -12,6 +12,7 @@ Currently exploring ethical hacking and threat hunting techniques to understand 
 |---------------|----------------------|
 | Domain Controller RDP Compromise Investigation | [MTS Domain Controller Incident Report](https://github.com/Bridg3Ops/mts-dc-incident-report) |
 | Contractor PC RDP & PowerShell Obfuscation Attack | [Contractor PC RDP Compromise](https://github.com/Bridg3Ops/contractor-pc-rdp-compromise) |
+| SSH Brute Force Attack with Root Compromise on MTS-Web | [MTS-Web SSH Brute Force Incident](https://github.com/Bridg3Ops/mts-web-ssh-brute-force-incident) |
 
 ## Projects
 
