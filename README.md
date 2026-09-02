@@ -59,6 +59,8 @@ My work spans threat detection and threat hunting. I also apply risk-based vulne
 - [COMPTIA Security+ (Sec+)](https://www.credly.com/users/abraham-osinoiki)
 - [COMPTIA CySA+ (Cybersecurity Analyst)](https://www.credly.com/users/abraham-osinoiki)
 - [SC-200 Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/en-gb/users/osinoikiabrahamstudent-8025/credentials/cf152c553a17f685?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [SC-300 Microsoft Certified: Identity and Access Administrator Associate](https://learn.microsoft.com/en-gb/users/osinoikiabrahamstudent-8025/credentials/2f8836e2fedba148?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Blue Team Level 1 (BTL1)](https://www.credly.com/badges/4605d63c-f717-477f-bf86-c671a11811f1/linked_in_profile)
 - MSc Computer Science with Cyber Security (In Progress)
 
 ## Connect With Me
