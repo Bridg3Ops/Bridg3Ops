@@ -56,8 +56,9 @@ My work spans threat detection and threat hunting. I also apply risk-based vulne
 ![Volatility](https://img.shields.io/badge/Volatility-FF1744?style=for-the-badge&logo=security&logoColor=white)
 ## Education & Certifications
 
-- [Security+ (Sec+)](https://www.credly.com/users/abraham-osinoiki)
-- [CySA+ (Cybersecurity Analyst)](https://www.credly.com/users/abraham-osinoiki)
+- [COMPTIA Security+ (Sec+)](https://www.credly.com/users/abraham-osinoiki)
+- [COMPTIA CySA+ (Cybersecurity Analyst)](https://www.credly.com/users/abraham-osinoiki)
+- [SC-200 Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/en-gb/users/osinoikiabrahamstudent-8025/credentials/cf152c553a17f685?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - MSc Computer Science with Cyber Security (In Progress)
 
 ## Connect With Me
