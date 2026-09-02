@@ -2,9 +2,9 @@
 
 ## About Me
 
-Cybersecurity Analyst with a strong focus on SOC operations, threat detection, and incident response. I enjoy working with tools like Microsoft Sentinel & Splunk to investigate alerts and create detection logic.
+Cybersecurity Analyst focused on SOC operations and incident response. I take a structured approach to investigations from initial triage through containment. I turn technical evidence into clear findings and practical recommendations.
 
-Currently exploring ethical hacking and threat hunting techniques to understand adversary behaviour and improve blue-team defences through offence-informed strategies.
+My work spans threat detection and threat hunting. I also apply risk-based vulnerability management to reduce exposure and improve security resilience. I use an offence-informed approach to understand adversary behaviour and strengthen blue-team defences.
 
 ## Investigations & Projects
 
@@ -56,9 +56,9 @@ Currently exploring ethical hacking and threat hunting techniques to understand 
 ![Volatility](https://img.shields.io/badge/Volatility-FF1744?style=for-the-badge&logo=security&logoColor=white)
 ## Education & Certifications
 
-- 🔒 [Security+ (Sec+)](https://www.credly.com/users/abraham-osinoiki)
-- 📊 [CySA+ (Cybersecurity Analyst)](https://www.credly.com/users/abraham-osinoiki)
-- 🎓 MSc Computer Science with Cyber Security (In Progress)
+- [Security+ (Sec+)](https://www.credly.com/users/abraham-osinoiki)
+- [CySA+ (Cybersecurity Analyst)](https://www.credly.com/users/abraham-osinoiki)
+- MSc Computer Science with Cyber Security (In Progress)
 
 ## Connect With Me
 
